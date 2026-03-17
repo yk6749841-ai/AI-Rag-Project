@@ -1,10 +1,12 @@
 # 👨‍🍳 עוזר חכם Chef-AI: מערכת Hybrid RAG מתקדמת
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Workflow-purple)
-![Pinecone](https://img.shields.io/badge/Vector%20Database-Pinecone-success)
-![Cohere](https://img.shields.io/badge/LLM-Cohere%20Command--R-orange)
-![Gradio](https://img.shields.io/badge/UI-Gradio-ff69b4)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-27272E?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" />
+</p>
 
 ## 📌 סקירה כללית
 **עוזר ה-Chef-AI** הוא סוכן חכם מבוסס אירועים (Event-Driven), שנועד לשמש כנציג תמיכה טכנית וארכיטקט תוכנה עבור פרויקט "Chef-AI".
