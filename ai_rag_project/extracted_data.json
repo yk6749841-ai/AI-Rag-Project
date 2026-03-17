@@ -1,0 +1,1968 @@
+{
+    "decisions": [
+        {
+            "id": "1",
+            "title": "Update Time Fields for Clarity and User Experience",
+            "summary": "The decision was made to enhance the time fields in the Chef-AI platform to provide a more accurate and user-friendly experience. This involved introducing new time categories and migrating existing data to the new structure.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "2",
+            "title": "Implement Separate Time Displays for Clarity",
+            "summary": "To improve clarity, the UI was updated to display prep time, cook time, and total time separately, making it easier for users to understand the time commitment for each recipe.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "3",
+            "title": "Enhance Search Functionality with Time Filters",
+            "summary": "The search feature was enhanced to allow users to filter recipes based on prep time, cook time, or total time, providing a more tailored and efficient search experience.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "4",
+            "title": "Integrate New Time Fields into API Endpoints",
+            "summary": "API updates were made to include the new time fields for all recipe endpoints, ensuring consistency and compatibility across the platform.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "5",
+            "title": "Conduct Beta Testing and Gather User Feedback",
+            "summary": "A beta testing phase was implemented with 1,000 users to gather feedback on the new time display. Survey results and support ticket data were analyzed to refine the time structure and user experience.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "6",
+            "title": "Implement Future Enhancements for Time-Based Features",
+            "summary": "Future enhancements were outlined, including smart scheduling with calendar integration, batch cooking optimization, time tracking for user-reported cooking times, and AI predictions for more accurate time estimates.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "1",
+            "title": "Superior Data Sources",
+            "summary": "The AI system analyzes the entire recipe, understands chemical interactions, respects traditional methods, and considers nutritional impact.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "2",
+            "title": "Smart Substitution Logic",
+            "summary": "Replaces ingredients based on function, maintains flavor and texture, and adapts to cooking conditions.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "3",
+            "title": "User Benefits",
+            "summary": "High success rate, taste preservation, dietary safety, and cost optimization.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "4",
+            "title": "Real-World Examples",
+            "summary": "Demonstrates understanding of baking, sauces, spices, and substitutions like coconut milk in curries.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "5",
+            "title": "Business Impact",
+            "summary": "Builds user trust, improves recipe success, justifies premium pricing, and differentiates the product.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "6",
+            "title": "Technical Foundation",
+            "summary": "Trained on a large dataset, validated by experts, improved with user feedback, and supported by research partnerships.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "7",
+            "title": "Future Roadmap",
+            "summary": "Plans to incorporate allergy intelligence, cost optimization, seasonal adaptation, and personalization.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "1",
+            "title": "Target Audience Segmentation",
+            "summary": "Identify and prioritize user personas based on demographics, pain points, and goals.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\user_personas.md"
+        },
+        {
+            "id": "2",
+            "title": "Product Strategy Focus",
+            "summary": "Develop core features targeting busy parents, social features for millennials, professional tools for chefs, and educational content for beginner cooks.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\user_personas.md"
+        },
+        {
+            "id": "3",
+            "title": "Business Prioritization",
+            "summary": "Prioritize user segments based on market potential and long-term value: busy parents, health-conscious millennials, professional chefs, and beginner cooks.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\user_personas.md"
+        },
+        {
+            "id": "1",
+            "title": "Smart Shopping Lists",
+            "summary": "Generate shopping lists, integrate pantry, map store layouts, track budgets, and compare prices across retailers.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "2",
+            "title": "AI Meal Planning",
+            "summary": "Generate weekly meal schedules, customize for dietary preferences, prioritize seasonal ingredients, optimize leftovers, and coordinate family meals.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "3",
+            "title": "Smart Features Rollout",
+            "summary": "Roll out features in Q1-Q4 2024: basic shopping list, store price comparisons, AI meal planning, and family coordination.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "4",
+            "title": "User Value Proposition",
+            "summary": "Save time, reduce costs, relieve stress, and support health goals by automating meal planning and shopping.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "5",
+            "title": "Business Impact",
+            "summary": "Increase user engagement, retention, and revenue through premium features and grocery store partnerships.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "6",
+            "title": "Success Metrics",
+            "summary": "Measure success through shopping list usage, meal plan adoption, cost savings, and time savings.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "1",
+            "title": "Quick-View Hover System",
+            "summary": "Implement a hover system for recipe cards with a fade-in animation and key recipe details.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "2",
+            "title": "Hover State Implementation",
+            "summary": "Design the hover state with subtle card lift, overlay, and action buttons.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "3",
+            "title": "Mobile-First Touch Interactions",
+            "summary": "Optimize for mobile with touch targets, long press, and swipe gestures.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "4",
+            "title": "Responsive Behavior",
+            "summary": "Ensure responsiveness across devices: desktop, tablet, and mobile.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "5",
+            "title": "Animation Performance",
+            "summary": "Enhance animation performance with GPU acceleration and lazy loading.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "6",
+            "title": "Accessibility Features",
+            "summary": "Implement keyboard navigation, screen reader support, and focus management for accessibility.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "7",
+            "title": "Component States",
+            "summary": "Define component states: default, hover, active, and disabled.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "1",
+            "title": "Direction Attribute for Hebrew Pages",
+            "summary": "Set `dir=\"rtl\"` on the HTML element for Hebrew pages to ensure the correct text direction.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "2",
+            "title": "CSS Logical Properties for Margin",
+            "summary": "Use `margin-inline-start` instead of `margin-left` to handle margins logically for RTL layouts.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "3",
+            "title": "Flexbox Direction for RTL",
+            "summary": "Set `flex-direction: row-reverse` to reverse the direction of flex items in RTL layouts.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "4",
+            "title": "Grid Positioning for RTL",
+            "summary": "Reverse the order of columns/rows automatically to ensure proper positioning in RTL grids.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "5",
+            "title": "Text Alignment for Hebrew Content",
+            "summary": "Set `text-align: right` for all Hebrew content to align text properly.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "6",
+            "title": "Handling Mixed Content",
+            "summary": "Use `unicode-bidi: plaintext` to ensure proper handling of mixed content (e.g., Hebrew and Latin) in terms of text direction.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "7",
+            "title": "Direction for Numbers and Latin within RTL Text",
+            "summary": "Maintain the LTR direction for numbers and Latin characters within RTL text.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "8",
+            "title": "Auto-positioning for Quotes and Punctuation",
+            "summary": "Allow quotes and punctuation to auto-position based on the text direction (RTL or LTR).",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "9",
+            "title": "Breadcrumb Arrows Direction in RTL",
+            "summary": "Point breadcrumb arrows to the left instead of the right in RTL navigation.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "10",
+            "title": "Hamburger Menu Icon Flip",
+            "summary": "Flip the hamburger menu icon to open from the right side in RTL layouts.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "11",
+            "title": "Pagination Button Swap",
+            "summary": "Swap the positions of previous/next buttons in RTL pagination.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "12",
+            "title": "Progress Bar Filling Direction",
+            "summary": "Fill progress bars from right to left in RTL contexts.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "13",
+            "title": "Search Input Magnifying Glass Position",
+            "summary": "Place the magnifying glass icon on the right side of the search input field.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "14",
+            "title": "Dropdown Menus Opening Direction",
+            "summary": "Make dropdown menus open to the left instead of the right in RTL contexts.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "15",
+            "title": "Modal Dialogs Slide-in Direction",
+            "summary": "Slide modal dialogs in from the right side to match the RTL layout.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "16",
+            "title": "Tooltips Positioning",
+            "summary": "Position tooltips to the left of the trigger element in RTL contexts.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "17",
+            "title": "Font Selection for RTL",
+            "summary": "Choose fonts optimized for RTL languages, such as 'Assistant' or 'Rubik'.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "18",
+            "title": "Line Height Adjustment for Hebrew Readability",
+            "summary": "Slightly increase the line height to improve the readability of Hebrew text.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "19",
+            "title": "Letter Spacing for Hebrew Text Flow",
+            "summary": "Reduce letter spacing to enhance the flow of Hebrew text.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "20",
+            "title": "Word Breaking for Hebrew Words",
+            "summary": "Ensure proper word breaking for Hebrew words to maintain readability.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "21",
+            "title": "RTL Rules Application at All Breakpoints",
+            "summary": "Apply RTL rules consistently across all breakpoints, including mobile-first designs.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "22",
+            "title": "Reversed Swipe Gestures for RTL",
+            "summary": "Reverse swipe gestures for touch interactions in RTL contexts.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "23",
+            "title": "Tab Order Respecting RTL Layout",
+            "summary": "Ensure the tab order respects the RTL layout for keyboard navigation.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "24",
+            "title": "Focus Management for RTL",
+            "summary": "Display focus rings on the right side to match the RTL layout.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "1",
+            "title": "Primary Colors",
+            "summary": "Define the primary colors for the Chef-AI Frontend: Chef-Red, Kitchen-White, Shadow-Gray, and Light-Gray.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "2",
+            "title": "Typography System",
+            "summary": "Establish the typography system with font weights, sizes, and line heights for headings, body text, recipe titles, and ingredient lists.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "3",
+            "title": "Readability Rules",
+            "summary": "Set rules for contrast ratio, font sizes, line height, and character limit to ensure readability and WCAG AA compliance.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "4",
+            "title": "Kitchen Environment Optimization",
+            "summary": "Optimize for kitchen environments with large touch targets, high contrast, bold typography, and simple icons.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "5",
+            "title": "Responsive Typography",
+            "summary": "Define responsive typography scales for different screen sizes: mobile, tablet, desktop, and large screens.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "6",
+            "title": "Component Styling",
+            "summary": "Style components like buttons, cards, inputs, and navigation with specific colors, shadows, and focus states.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "1",
+            "title": "Select Gemini-1.5-Flash AI Model",
+            "summary": "Choose the Gemini-1.5-Flash model for its speed, cost-effectiveness, and accuracy in recipe analysis.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "2",
+            "title": "Performance Trade-offs",
+            "summary": "Prioritize speed, cost efficiency, and acceptable accuracy for recipe analysis during the startup phase.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "3",
+            "title": "Recipe Analysis Tasks",
+            "summary": "Define tasks: ingredient extraction, instruction parsing, dietary classification, and difficulty assessment.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "4",
+            "title": "Model Configuration",
+            "summary": "Set temperature to 0.3, max tokens to 2048, and include system prompts for food safety and accuracy.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "5",
+            "title": "Rate Limiting",
+            "summary": "Limit users to 100 requests per minute to manage performance and costs.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "6",
+            "title": "Cost Analysis",
+            "summary": "Compare costs: Flash model ($0.00015/1000 tokens) vs Pro model ($0.00075/1000 tokens) for 5M analyses.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "7",
+            "title": "Quality Assurance",
+            "summary": "Implement human review, feedback loop, A/B testing, and a fallback system for quality control.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "8",
+            "title": "Future Considerations",
+            "summary": "Plan to upgrade to Gemini-2.0, fine-tune with recipe-specific data, handle complex recipes, and monitor performance.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "gluten-free-validation",
+            "title": "Gluten-Free Validation",
+            "summary": "Ensure gluten-free validation by maintaining an extensive ingredient database, flagging cross-contamination, verifying certifications, and detecting hidden gluten sources.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "nut-free-validation",
+            "title": "Nut-Free Validation",
+            "summary": "Validate nut-free recipes by maintaining a nut family database, issuing processing alerts, identifying nut oils, and verifying the safety of nut-free alternatives.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "safety-logic-framework",
+            "title": "Safety Logic Framework",
+            "summary": "Implement a safety logic framework with zero tolerance, a conservative approach, multi-layer checks, and user override for risk acceptance.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "validation-process",
+            "title": "Validation Process",
+            "summary": "Utilize AI analysis, database cross-checks, human review by nutritionists, and user warnings to ensure a robust validation process.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "risk-categories",
+            "title": "Risk Categories",
+            "summary": "Categorize risks as HIGH, MEDIUM, LOW, or UNKNOWN based on the presence of allergens, cross-contamination, trace amounts, and data availability.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "emergency-protocols",
+            "title": "Emergency Protocols",
+            "summary": "Establish emergency protocols including immediate removal of unsafe recipes, user notifications, health advisories, and legal compliance with allergen labeling requirements.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "liability-protection",
+            "title": "Liability Protection",
+            "summary": "Implement liability protection measures such as disclaimers, user agreements, expert consultations, and insurance coverage for allergen incidents.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "continuous-monitoring",
+            "title": "Continuous Monitoring",
+            "summary": "Continuously monitor and improve allergen safety through user reports, database updates, regulatory changes tracking, and an audit trail of safety decisions.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "1",
+            "title": "Content Integrity and Safety Measures",
+            "summary": "A comprehensive approach to ensuring recipe safety, including toxicity detection, temperature control, allergen management, and nutritional balance checks.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "2",
+            "title": "Multi-Layered Safety Validation",
+            "summary": "Utilizes AI analysis, database cross-referencing, expert review, and user feedback to validate recipe safety.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "3",
+            "title": "Critical Safety Checks",
+            "summary": "Focuses on raw meat, cross-contamination, expiration dates, and dietary restrictions to prevent foodborne illnesses and allergic reactions.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "4",
+            "title": "Unsafe Content Detection",
+            "summary": "Identifies harmful ingredient combinations, incorrect temperatures, toxic ingredients, and life-threatening allergens.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "5",
+            "title": "Verification and Emergency Response",
+            "summary": "Implements automated scanning, manual review, community moderation, and expert consultation for safety verification. Includes immediate removal of unsafe recipes, user notifications, health warnings, and regulatory reporting.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "6",
+            "title": "Quality Assurance and Legal Compliance",
+            "summary": "Ensures recipe testing, accuracy metrics, false positive rate minimization, and continuous improvement. Adheres to food safety standards, liability protection, expert documentation, and insurance coverage.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "1",
+            "title": "Family Secret Recipe Protection",
+            "summary": "Protecting family recipes with encryption, private storage, and access control.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "2",
+            "title": "User Encryption Standards",
+            "summary": "Ensuring data security at rest, in transit, and end-to-end with encryption and TLS.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "3",
+            "title": "Privacy Controls",
+            "summary": "Offering users control over data visibility, portability, deletion, and analytics.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "4",
+            "title": "Sensitive Information Handling",
+            "summary": "Enhanced protection for sensitive data like family recipes, dietary restrictions, and personal preferences.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "5",
+            "title": "Compliance Framework",
+            "summary": "Adhering to GDPR, CCPA, and data minimization principles.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "6",
+            "title": "Security Measures",
+            "summary": "Implementing multi-factor authentication, session management, audit logging, and breach detection.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "7",
+            "title": "Third-Party Protection",
+            "summary": "Securing API, partner integrations, and data sharing with explicit user consent and privacy clauses.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "8",
+            "title": "User Rights",
+            "summary": "Empowering users with access, correction, portability, and objection rights over their data.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "1",
+            "title": "RESTful API Design",
+            "summary": "The API follows RESTful design principles, utilizing standard HTTP methods and predictable patterns for easy caching and development.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "2",
+            "title": "User-Specific Data Handling",
+            "summary": "User favorites and related data are separated from core recipe management endpoints to allow for different caching strategies and user-specific personalization.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "3",
+            "title": "Dedicated Search Endpoints",
+            "summary": "Search functionality is provided through dedicated endpoints to accommodate specialized indexing and ranking requirements.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "4",
+            "title": "JWT Authentication Choice",
+            "summary": "JWT (JSON Web Token) authentication is chosen for its stateless nature, scalability, mobile-friendliness, and performance benefits.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "5",
+            "title": "Token Structure and Security",
+            "summary": "The token structure includes user ID, role, expiration, and refresh tokens. Security measures such as password hashing, token revocation, rate limiting, and CORS protection are implemented.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "6",
+            "title": "API Performance Optimization",
+            "summary": "Performance features like pagination, field selection, compression, and URL-based versioning are implemented to enhance API performance and user experience.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "1",
+            "title": "Use MongoDB for Recipe Data",
+            "summary": "MongoDB's flexible schema and document model are well-suited for nested recipe data, offering scalability and efficient indexing for ingredients, cuisine, and cooking time. Its JSON integration allows for direct API responses without transformation.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "2",
+            "title": "Ingredient Scaling Strategies",
+            "summary": "Different scaling strategies are employed for various ingredient types: linear scaling for main ingredients, sublinear scaling for leavening agents and spices, and threshold scaling for critical flavorings and preservatives.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "3",
+            "title": "Performance Optimization",
+            "summary": "Performance considerations include pre-computed tables for common serving multiples, density storage for accurate unit conversions, compound indexes for fast queries, and aggregation pipelines for server-side calculations to reduce client load.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "redis-search-acceleration",
+            "title": "Redis Search Acceleration",
+            "summary": "Utilize Redis for recipe searches due to its in-memory speed, data structure support, persistence, and scalability.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "search-result-caching",
+            "title": "Search Result Caching",
+            "summary": "Implement query hashing, result storage, index caching, and autocomplete caching to optimize search performance.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "cache-layers",
+            "title": "Cache Layers",
+            "summary": "Establish multiple cache layers with varying TTLs for different types of data: search results, recipe details, user preferences, and scaling calculations.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "24-hour-ttl-policy",
+            "title": "24-Hour TTL Policy",
+            "summary": "Set a 24-hour TTL for scaling calculations based on recipe stability, compute intensity, user patterns, and storage efficiency considerations.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "ttl-strategy-by-data-type",
+            "title": "TTL Strategy by Data Type",
+            "summary": "Define TTL strategies for different data types: search results, recipe details, user sessions, and scaling data.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "cache-invalidation",
+            "title": "Cache Invalidation",
+            "summary": "Implement time-based, event-driven, tag-based, and memory management strategies for cache invalidation to ensure data freshness and efficiency.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "performance-impact",
+            "title": "Performance Impact",
+            "summary": "Achieve significant speed improvements and memory optimization through Redis caching, resulting in faster response times and efficient memory usage.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "1",
+            "title": "Storage Strategy for Food Photos",
+            "summary": "Utilize AWS S3 for recipe image storage due to its durability, scalability, performance, and cost-effectiveness.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "2",
+            "title": "Bucket Organization",
+            "summary": "Organize images in S3 buckets: original high-res, compressed versions, thumbnails, and a temporary user uploads area.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "3",
+            "title": "Image Compression with Sharp",
+            "summary": "Use Sharp for image processing due to its performance, memory efficiency, format support, and quality control.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "4",
+            "title": "Compression Pipeline",
+            "summary": "Implement a pipeline: upload, analyze, resize, compress, and store optimized images with metadata.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "5",
+            "title": "Compression Targets",
+            "summary": "Set quality and size targets for main images, step photos, thumbnails, and WebP format.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "6",
+            "title": "Performance Optimization",
+            "summary": "Implement a multi-format strategy with WebP as primary and JPEG as fallback. Use progressive loading and responsive images.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "7",
+            "title": "CDN Integration",
+            "summary": "Integrate CloudFront for global distribution, set cache headers, enable Gzip compression, and use signed URLs for access control.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "8",
+            "title": "Cost Management",
+            "summary": "Manage costs with intelligent tiering, lifecycle policies to archive old images, and achieve significant size reduction.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "9",
+            "title": "Quality Assurance",
+            "summary": "Ensure food photos meet standards, maintain visual appeal, and optimize formats for each use case.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        }
+    ],
+    "rules": [
+        {
+            "id": "1",
+            "rule": "Introduce new time fields: Prep Time, Cook Time, Total Time, and Active Time",
+            "scope": "Recipe Data",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "2",
+            "rule": "Display time fields separately in the UI for clarity",
+            "scope": "User Interface",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "3",
+            "rule": "Enable filtering by prep time, cook time, and total time in the search feature",
+            "scope": "Search Functionality",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "4",
+            "rule": "Integrate new time fields into all recipe-related API endpoints",
+            "scope": "API Updates",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "5",
+            "rule": "Conduct beta testing and gather user feedback to refine the time structure",
+            "scope": "User Feedback Integration",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "6",
+            "rule": "Plan future enhancements for time-based features, such as smart scheduling and AI predictions",
+            "scope": "Future Enhancements",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\changelog.md"
+        },
+        {
+            "id": "1",
+            "rule": "Analyze the entire recipe, not just individual ingredients.",
+            "scope": "Recipe Context",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "2",
+            "rule": "Understand chemical interactions between ingredients.",
+            "scope": "Cooking Chemistry",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "3",
+            "rule": "Respect traditional cooking methods and flavors.",
+            "scope": "Cultural Knowledge",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "4",
+            "rule": "Consider nutritional impact of substitutions.",
+            "scope": "Dietary Science",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "5",
+            "rule": "Replace ingredients based on their function, not just type.",
+            "scope": "Function-Based Substitution",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "6",
+            "rule": "Maintain taste balance and complexity.",
+            "scope": "Flavor Profile Matching",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "7",
+            "rule": "Consider mouthfeel and structural properties to preserve texture.",
+            "scope": "Texture Preservation",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "8",
+            "rule": "Adapt substitutions for different cooking temperatures and times.",
+            "scope": "Cooking Behavior",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\competitive_edge.md"
+        },
+        {
+            "id": "1",
+            "rule": "Segment users into distinct personas based on age, family status, and culinary expertise.",
+            "scope": "User Personas",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\user_personas.md"
+        },
+        {
+            "id": "2",
+            "rule": "Identify pain points and goals for each user persona to guide product development.",
+            "scope": "User Personas",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\user_personas.md"
+        },
+        {
+            "id": "3",
+            "rule": "Prioritize user segments based on market size, engagement, and potential for growth and long-term value.",
+            "scope": "Business Priorities",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\user_personas.md"
+        },
+        {
+            "id": "4",
+            "rule": "Develop product features tailored to the needs and behaviors of each user persona.",
+            "scope": "Product Strategy",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\user_personas.md"
+        },
+        {
+            "id": "1",
+            "rule": "Auto-Generation of Shopping Lists",
+            "scope": "Smart Shopping Lists",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "2",
+            "rule": "Pantry Integration",
+            "scope": "Smart Shopping Lists",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "3",
+            "rule": "Store Mapping",
+            "scope": "Smart Shopping Lists",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "4",
+            "rule": "Budget Tracking",
+            "scope": "Smart Shopping Lists",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "5",
+            "rule": "Multi-Store Support",
+            "scope": "Smart Shopping Lists",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "6",
+            "rule": "Weekly Planning",
+            "scope": "AI Meal Planning",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "7",
+            "rule": "Dietary Preferences Customization",
+            "scope": "AI Meal Planning",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "8",
+            "rule": "Seasonal Ingredients Prioritization",
+            "scope": "AI Meal Planning",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "9",
+            "rule": "Leftover Optimization",
+            "scope": "AI Meal Planning",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "10",
+            "rule": "Family Scheduling",
+            "scope": "AI Meal Planning",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "11",
+            "rule": "Basic Shopping List Generation",
+            "scope": "Smart Features Rollout",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "12",
+            "rule": "Store Price Comparisons",
+            "scope": "Smart Features Rollout",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "13",
+            "rule": "Budget Tracking",
+            "scope": "Smart Features Rollout",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "14",
+            "rule": "AI Meal Planning with Customization",
+            "scope": "Smart Features Rollout",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "15",
+            "rule": "Family Coordination",
+            "scope": "Smart Features Rollout",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "16",
+            "rule": "Seasonal Optimization",
+            "scope": "Smart Features Rollout",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "17",
+            "rule": "Time Savings",
+            "scope": "User Value Proposition",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "18",
+            "rule": "Cost Reduction",
+            "scope": "User Value Proposition",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "19",
+            "rule": "Stress Relief",
+            "scope": "User Value Proposition",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "20",
+            "rule": "Health Goals Support",
+            "scope": "User Value Proposition",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "21",
+            "rule": "User Engagement Increase",
+            "scope": "Business Impact",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "22",
+            "rule": "Retention Improvement",
+            "scope": "Business Impact",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "23",
+            "rule": "Revenue Generation",
+            "scope": "Business Impact",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "24",
+            "rule": "Partnerships with Grocery Stores",
+            "scope": "Business Impact",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "25",
+            "rule": "Shopping List Usage Measurement",
+            "scope": "Success Metrics",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "26",
+            "rule": "Meal Plan Adoption Measurement",
+            "scope": "Success Metrics",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "27",
+            "rule": "Cost Savings Measurement",
+            "scope": "Success Metrics",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "28",
+            "rule": "Time Savings Measurement",
+            "scope": "Success Metrics",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\claude\\vision_v2.md"
+        },
+        {
+            "id": "1",
+            "rule": "Trigger Quick-View on mouse hover or long press.",
+            "scope": "Recipe cards",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "2",
+            "rule": "Use 200ms fade-in animation with smooth scale transition.",
+            "scope": "Quick-View hover system",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "3",
+            "rule": "Display key ingredients and cooking time in the Quick-View.",
+            "scope": "Recipe preview",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "4",
+            "rule": "Position the Quick-View adjacent to the card, avoiding viewport edges.",
+            "scope": "Quick-View placement",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "5",
+            "rule": "Increase shadow and move card 2px upward for hover state.",
+            "scope": "Card lift",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "6",
+            "rule": "Overlay a semi-transparent dark background for focus.",
+            "scope": "Overlay",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "7",
+            "rule": "Display recipe image, title, prep time, and difficulty badge in the Quick-View.",
+            "scope": "Content",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "8",
+            "rule": "Include a quick favorite button and a view recipe link.",
+            "scope": "Actions",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "9",
+            "rule": "Ensure touch targets are a minimum of 44px for mobile reliability.",
+            "scope": "Touch Targets",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "10",
+            "rule": "Trigger Quick-View on a 500ms long press on mobile.",
+            "scope": "Long Press",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "11",
+            "rule": "Left swipe favorites, right swipe shares.",
+            "scope": "Swipe Gestures",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "12",
+            "rule": "Provide subtle haptic feedback for action confirmation.",
+            "scope": "Haptic Feedback",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "13",
+            "rule": "Use `transform3d` for smooth animations.",
+            "scope": "GPU Acceleration",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "14",
+            "rule": "Prevent rapid hover state changes with debouncing.",
+            "scope": "Debouncing",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "15",
+            "rule": "Load Quick-View content on demand.",
+            "scope": "Lazy Loading",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "16",
+            "rule": "Clean up event listeners properly for memory management.",
+            "scope": "Memory Management",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "17",
+            "rule": "Allow keyboard navigation with the Tab key and Enter for Quick-View.",
+            "scope": "Keyboard Navigation",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "18",
+            "rule": "Announce hover state changes for screen readers.",
+            "scope": "Screen Reader",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "19",
+            "rule": "Trap focus within the Quick-View modal.",
+            "scope": "Focus Management",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "20",
+            "rule": "Close Quick-View with the Escape key.",
+            "scope": "Escape Key",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\interactive_elements.md"
+        },
+        {
+            "id": "1",
+            "rule": "Use `margin-inline-start` for RTL margins.",
+            "scope": "CSS Logical Properties",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "2",
+            "rule": "Set `flex-direction: row-reverse` for RTL flexbox.",
+            "scope": "Flexbox Direction",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "3",
+            "rule": "Reverse column/row order in RTL grids.",
+            "scope": "Grid Positioning",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "4",
+            "rule": "Set `text-align: right` for Hebrew content.",
+            "scope": "Text Alignment",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "5",
+            "rule": "Use `unicode-bidi: plaintext` for mixed content.",
+            "scope": "Handling Mixed Content",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "6",
+            "rule": "Maintain LTR direction for numbers and Latin within RTL text.",
+            "scope": "Numbers & Latin",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "7",
+            "rule": "Allow auto-positioning for quotes and punctuation based on text direction.",
+            "scope": "Quotes & Punctuation",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "8",
+            "rule": "Point breadcrumb arrows to the left in RTL.",
+            "scope": "Breadcrumb Arrows",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "9",
+            "rule": "Flip hamburger menu icon to open from the right.",
+            "scope": "Menu Icons",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "10",
+            "rule": "Swap previous/next button positions in RTL pagination.",
+            "scope": "Pagination",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "11",
+            "rule": "Fill progress bars from right to left in RTL.",
+            "scope": "Progress Bars",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "12",
+            "rule": "Place magnifying glass on the right side of search input.",
+            "scope": "Search Input",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "13",
+            "rule": "Make dropdown menus open to the left in RTL.",
+            "scope": "Dropdown Menus",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "14",
+            "rule": "Slide modal dialogs in from the right side in RTL.",
+            "scope": "Modal Dialogs",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "15",
+            "rule": "Position tooltips to the left of the trigger element in RTL.",
+            "scope": "Tool Tips",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "16",
+            "rule": "Use RTL-optimized fonts like 'Assistant' or 'Rubik'.",
+            "scope": "Font Selection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "17",
+            "rule": "Slightly increase line height for Hebrew readability.",
+            "scope": "Line Height",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "18",
+            "rule": "Reduce letter spacing for better Hebrew text flow.",
+            "scope": "Letter Spacing",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "19",
+            "rule": "Ensure proper word breaking for Hebrew words.",
+            "scope": "Text Wrapping",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "20",
+            "rule": "Apply RTL rules at all breakpoints, including mobile-first designs.",
+            "scope": "Mobile First",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "21",
+            "rule": "Reverse swipe gestures for RTL touch interactions.",
+            "scope": "Touch Gestures",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "22",
+            "rule": "Respect RTL layout for tab order in keyboard navigation.",
+            "scope": "Keyboard Navigation",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "23",
+            "rule": "Display focus rings on the right side in RTL.",
+            "scope": "Focus Management",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\rtl_hebrew.md"
+        },
+        {
+            "id": "1",
+            "rule": "Use a minimum contrast ratio of 4.5:1 for WCAG AA compliance.",
+            "scope": "Readability",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "2",
+            "rule": "Set a minimum font size of 16px for body text, scalable for different devices.",
+            "scope": "Readability",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "3",
+            "rule": "Maintain a line height of 1.5 for body text and 1.2 for headings.",
+            "scope": "Readability",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "4",
+            "rule": "Limit character count per line to 65-75 characters for optimal readability.",
+            "scope": "Readability",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "5",
+            "rule": "Ensure touch targets are a minimum of 44px for finger interaction.",
+            "scope": "Kitchen Environment",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "6",
+            "rule": "Enhance contrast for bright kitchen lighting conditions.",
+            "scope": "Kitchen Environment",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "7",
+            "rule": "Use heavier font weights for glare resistance in bright environments.",
+            "scope": "Kitchen Environment",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "8",
+            "rule": "Implement clear and universally understood symbols for icons.",
+            "scope": "Kitchen Environment",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "9",
+            "rule": "Set a base font size of 16px for mobile, with a scale ratio of 1.375.",
+            "scope": "Responsive Typography",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "10",
+            "rule": "For tablets, use a base font size of 18px and a scale ratio of 1.25.",
+            "scope": "Responsive Typography",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "11",
+            "rule": "On desktops, set a base font size of 20px and a scale ratio of 1.25.",
+            "scope": "Responsive Typography",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "12",
+            "rule": "For large screens, use a base font size of 22px and a scale ratio of 1.125.",
+            "scope": "Responsive Typography",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "13",
+            "rule": "Style buttons with a Chef-Red background, white text, and rounded corners.",
+            "scope": "Component Styling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "14",
+            "rule": "Cards should have a white background, subtle shadows, and clean borders.",
+            "scope": "Component Styling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "15",
+            "rule": "Inputs should have light borders and focus states with Chef-Red.",
+            "scope": "Component Styling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "16",
+            "rule": "Navigation should have a dark background with high contrast text.",
+            "scope": "Component Styling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\cursor\\style_guide.md"
+        },
+        {
+            "id": "1",
+            "rule": "Select the AI model based on speed, cost, and accuracy requirements.",
+            "scope": "AI Model Selection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "2",
+            "rule": "Prioritize speed, cost efficiency, and acceptable accuracy during the startup phase.",
+            "scope": "Performance Trade-offs",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "3",
+            "rule": "Define recipe analysis tasks: ingredient extraction, instruction parsing, dietary classification, and difficulty assessment.",
+            "scope": "Recipe Analysis Tasks",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "4",
+            "rule": "Configure the model with specific settings: temperature, max tokens, and system prompts.",
+            "scope": "Model Configuration",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "5",
+            "rule": "Implement rate limiting to manage performance and costs.",
+            "scope": "Rate Limiting",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "6",
+            "rule": "Compare costs and analyze savings between Flash and Pro models for the given volume of analyses.",
+            "scope": "Cost Analysis",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "7",
+            "rule": "Establish quality assurance measures: human review, feedback loop, A/B testing, and a fallback system.",
+            "scope": "Quality Assurance",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "8",
+            "rule": "Plan for future improvements: model upgrades, fine-tuning, handling complex recipes, and performance monitoring.",
+            "scope": "Future Considerations",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\ai_model.md"
+        },
+        {
+            "id": "gluten-free-validation-rule",
+            "rule": "Maintain an extensive ingredient database, flag cross-contamination, verify certifications, and detect hidden gluten sources for gluten-free validation.",
+            "scope": "Gluten-Free Validation",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "nut-free-validation-rule",
+            "rule": "Maintain a nut family database, issue processing alerts, identify nut oils, and verify nut-free alternatives for nut-free validation.",
+            "scope": "Nut-Free Validation",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "safety-logic-framework-rule",
+            "rule": "Implement a safety logic framework with zero tolerance, a conservative approach, multi-layer checks, and user override for risk acceptance.",
+            "scope": "Safety Logic Framework",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "validation-process-rule",
+            "rule": "Utilize AI analysis, database cross-checks, human review by nutritionists, and user warnings to ensure a robust validation process.",
+            "scope": "Validation Process",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "risk-categories-rule",
+            "rule": "Categorize risks as HIGH, MEDIUM, LOW, or UNKNOWN based on allergen presence, cross-contamination, trace amounts, and data availability.",
+            "scope": "Risk Categories",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "emergency-protocols-rule",
+            "rule": "Establish emergency protocols including immediate removal of unsafe recipes, user notifications, health advisories, and legal compliance with allergen labeling requirements.",
+            "scope": "Emergency Protocols",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "liability-protection-rule",
+            "rule": "Implement liability protection measures such as disclaimers, user agreements, expert consultations, and insurance coverage for allergen incidents.",
+            "scope": "Liability Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "continuous-monitoring-rule",
+            "rule": "Continuously monitor and improve allergen safety through user reports, database updates, regulatory changes tracking, and an audit trail of safety decisions.",
+            "scope": "Continuous Monitoring",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\allergen_safety.md"
+        },
+        {
+            "id": "1",
+            "rule": "Toxicity Detection",
+            "scope": "Identify harmful ingredient combinations to prevent toxic reactions.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "2",
+            "rule": "Temperature Safety",
+            "scope": "Validate cooking temperatures to ensure food safety and prevent undercooking.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "3",
+            "rule": "Allergen Cross-Check",
+            "scope": "Ensure accurate allergen labeling to protect users with allergies.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "4",
+            "rule": "Nutrition Balance",
+            "scope": "Detect nutritional deficiencies to prevent health risks.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "5",
+            "rule": "AI Analysis",
+            "scope": "Gemini scans recipes for safety red flags, such as potential allergens or toxic ingredients.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "6",
+            "rule": "Database Cross-Reference",
+            "scope": "Compare recipes against a database of safe recipe patterns to identify potential issues.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "7",
+            "rule": "Expert Review",
+            "scope": "Professional chefs validate new recipes to ensure safety and quality.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "8",
+            "rule": "User Feedback",
+            "scope": "Community reporting system allows users to flag safety issues and provide feedback.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "9",
+            "rule": "Raw Meat Safety",
+            "scope": "Ensure proper cooking temperatures for raw meat to prevent foodborne illnesses.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "10",
+            "rule": "Cross-Contamination",
+            "scope": "Flag unsafe food handling practices to prevent cross-contamination.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "11",
+            "rule": "Expiration Dates",
+            "scope": "Warn users about potentially unsafe ingredients due to expiration dates.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "12",
+            "rule": "Dietary Restrictions",
+            "scope": "Validate medical safety claims and accommodate dietary restrictions.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "13",
+            "rule": "Harmful Combinations",
+            "scope": "Identify dangerous ingredient pairings to prevent adverse reactions.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "14",
+            "rule": "Incorrect Temperatures",
+            "scope": "Flag undercooked food to prevent foodborne illnesses.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "15",
+            "rule": "Toxic Ingredients",
+            "scope": "Identify poisonous plants or substances to prevent accidental ingestion.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "16",
+            "rule": "Allergic Reactions",
+            "scope": "Detect life-threatening allergens to protect users with severe allergies.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "17",
+            "rule": "Automated Scanning",
+            "scope": "Real-time safety analysis during recipe creation to identify potential issues early on.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "18",
+            "rule": "Manual Review",
+            "scope": "Human verification for high-risk recipes to ensure accuracy and safety.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "19",
+            "rule": "Community Moderation",
+            "scope": "User flagging system for safety issues, allowing the community to contribute to safety checks.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "20",
+            "rule": "Expert Consultation",
+            "scope": "Nutritionist review for medical claims to ensure accuracy and safety.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "21",
+            "rule": "Immediate Removal",
+            "scope": "Unsafe recipes are removed within 30 minutes to protect users.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "22",
+            "rule": "User Notification",
+            "scope": "Alert system to notify affected users about unsafe recipes.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "23",
+            "rule": "Health Warnings",
+            "scope": "Clear safety disclaimers are provided when needed to inform users about potential risks.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "24",
+            "rule": "Regulatory Reporting",
+            "scope": "Compliance with food safety authorities to ensure legal and ethical standards are met.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "25",
+            "rule": "Recipe Testing",
+            "scope": "Physical testing of AI-generated recipes to ensure safety and quality.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "26",
+            "rule": "Accuracy Metrics",
+            "scope": "Track safety prediction accuracy to improve the system's performance.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "27",
+            "rule": "False Positive Rate",
+            "scope": "Minimize incorrect safety warnings to reduce user confusion and frustration.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "28",
+            "rule": "Continuous Improvement",
+            "scope": "Machine learning from safety outcomes to enhance the system's ability to identify potential issues.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "29",
+            "rule": "Food Safety Standards",
+            "scope": "Adhere to FDA and international regulations to ensure legal compliance.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "30",
+            "rule": "Liability Protection",
+            "scope": "Clear disclaimers and user agreements to protect against liability.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "31",
+            "rule": "Expert Documentation",
+            "scope": "Maintain professional validation records for legal and ethical purposes.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "32",
+            "rule": "Insurance Coverage",
+            "scope": "Product liability insurance to cover recipe safety-related incidents.",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\content_integrity.md"
+        },
+        {
+            "id": "1",
+            "rule": "AES-256 encryption for recipe content",
+            "scope": "Family Secret Recipe Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "2",
+            "rule": "Isolated database for personal recipes",
+            "scope": "Family Secret Recipe Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "3",
+            "rule": "User-only access to private recipes",
+            "scope": "Family Secret Recipe Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "4",
+            "rule": "Explicit consent required for sharing",
+            "scope": "Family Secret Recipe Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "5",
+            "rule": "Encrypted database storage for data at rest",
+            "scope": "User Encryption Standards",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "6",
+            "rule": "TLS 1.3 for secure data in transit",
+            "scope": "User Encryption Standards",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "7",
+            "rule": "End-to-end encryption for recipe content",
+            "scope": "User Encryption Standards",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "8",
+            "rule": "Secure key rotation every 90 days",
+            "scope": "User Encryption Standards",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "9",
+            "rule": "Public, friends-only, and private recipe visibility settings",
+            "scope": "Privacy Controls",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "10",
+            "rule": "Export all user data on request",
+            "scope": "Privacy Controls",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "11",
+            "rule": "Guaranteed complete data removal",
+            "scope": "Privacy Controls",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "12",
+            "rule": "User choice for data usage preferences",
+            "scope": "Privacy Controls",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "13",
+            "rule": "Enhanced protection for family recipes",
+            "scope": "Sensitive Information Handling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "14",
+            "rule": "Protection for private health information",
+            "scope": "Sensitive Information Handling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "15",
+            "rule": "Encrypted user behavior data",
+            "scope": "Sensitive Information Handling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "16",
+            "rule": "Optional, anonymized location data collection",
+            "scope": "Sensitive Information Handling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "17",
+            "rule": "Full GDPR compliance for EU users",
+            "scope": "Compliance Framework",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "18",
+            "rule": "Implementation of California privacy rights (CCPA)",
+            "scope": "Compliance Framework",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "19",
+            "rule": "Collect only essential information",
+            "scope": "Compliance Framework",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "20",
+            "rule": "Clear boundaries for data usage",
+            "scope": "Compliance Framework",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "21",
+            "rule": "Optional multi-factor authentication for recipe access",
+            "scope": "Security Measures",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "22",
+            "rule": "Secure token-based session management",
+            "scope": "Security Measures",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "23",
+            "rule": "Complete access history tracking",
+            "scope": "Security Measures",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "24",
+            "rule": "Real-time security monitoring for breach detection",
+            "scope": "Security Measures",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "25",
+            "rule": "Rate limiting and access controls for API security",
+            "scope": "Third-Party Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "26",
+            "rule": "Security assessment for partner integrations",
+            "scope": "Third-Party Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "27",
+            "rule": "Explicit user consent for data sharing",
+            "scope": "Third-Party Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "28",
+            "rule": "Privacy clauses in all agreements",
+            "scope": "Third-Party Protection",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "29",
+            "rule": "View all stored personal data",
+            "scope": "User Rights",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "30",
+            "rule": "Update inaccurate information",
+            "scope": "User Rights",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "31",
+            "rule": "Download data in a usable format",
+            "scope": "User Rights",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "32",
+            "rule": "Limit processing of personal data",
+            "scope": "User Rights",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\kiro\\data_privacy.md"
+        },
+        {
+            "id": "1",
+            "rule": "RESTful API Design",
+            "scope": "API Architecture",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "2",
+            "rule": "User Data Separation",
+            "scope": "Data Management",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "3",
+            "rule": "Dedicated Search Endpoints",
+            "scope": "Search Functionality",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "4",
+            "rule": "JWT Authentication",
+            "scope": "Security",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "5",
+            "rule": "Token Structure and Security Measures",
+            "scope": "Security",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "6",
+            "rule": "API Performance Optimization",
+            "scope": "Performance",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\api_design.md"
+        },
+        {
+            "id": "1",
+            "rule": "Use MongoDB for its flexible schema and document model to handle varying recipe structures.",
+            "scope": "Recipe Database",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "2",
+            "rule": "Implement linear scaling for main ingredients to maintain proportional relationships.",
+            "scope": "Ingredient Scaling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "3",
+            "rule": "Apply sublinear scaling for leavening agents and spices to prevent over-seasoning in large batches.",
+            "scope": "Ingredient Scaling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "4",
+            "rule": "Use threshold scaling for critical flavorings and preservatives to maintain minimum and maximum amounts.",
+            "scope": "Ingredient Scaling",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "5",
+            "rule": "Pre-compute tables for common serving multiples to optimize performance.",
+            "scope": "Performance Optimization",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "6",
+            "rule": "Store ingredient densities for accurate unit conversions.",
+            "scope": "Performance Optimization",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "7",
+            "rule": "Utilize compound indexes for fast queries on ingredients and amounts.",
+            "scope": "Performance Optimization",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "8",
+            "rule": "Implement aggregation pipelines for server-side calculations to reduce client load.",
+            "scope": "Performance Optimization",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\database_logic.md"
+        },
+        {
+            "id": "redis-search-rule",
+            "rule": "Use Redis for recipe searches due to its speed and data structure support.",
+            "scope": "Search Performance",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "caching-rule",
+            "rule": "Implement caching for search results, recipe details, user preferences, and scaling calculations with appropriate TTLs.",
+            "scope": "Caching Strategy",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "ttl-rule",
+            "rule": "Set TTLs based on data type and characteristics: search results, recipe details, user sessions, and scaling data.",
+            "scope": "TTL Management",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "cache-invalidation-rule",
+            "rule": "Employ time-based, event-driven, tag-based, and memory management techniques for cache invalidation.",
+            "scope": "Cache Invalidation",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "performance-optimization-rule",
+            "rule": "Optimize performance by leveraging Redis caching, resulting in faster response times and efficient memory usage.",
+            "scope": "Performance Optimization",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\performance.md"
+        },
+        {
+            "id": "1",
+            "rule": "Use AWS S3 for recipe image storage due to its durability, scalability, performance, and cost-effectiveness.",
+            "scope": "Storage Strategy",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "2",
+            "rule": "Organize images in S3 buckets: original high-res, compressed versions, thumbnails, and a temporary user uploads area.",
+            "scope": "Bucket Organization",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "3",
+            "rule": "Use Sharp for image processing due to its performance, memory efficiency, format support, and quality control.",
+            "scope": "Image Compression",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "4",
+            "rule": "Implement a pipeline: upload, analyze, resize, compress, and store optimized images with metadata.",
+            "scope": "Compression Pipeline",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "5",
+            "rule": "Set quality and size targets for main images, step photos, thumbnails, and WebP format.",
+            "scope": "Compression Targets",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "6",
+            "rule": "Implement a multi-format strategy with WebP as primary and JPEG as fallback. Use progressive loading and responsive images.",
+            "scope": "Performance Optimization",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "7",
+            "rule": "Integrate CloudFront for global distribution, set cache headers, enable Gzip compression, and use signed URLs for access control.",
+            "scope": "CDN Integration",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "8",
+            "rule": "Manage costs with intelligent tiering, lifecycle policies to archive old images, and achieve significant size reduction.",
+            "scope": "Cost Management",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        },
+        {
+            "id": "9",
+            "rule": "Ensure food photos meet standards, maintain visual appeal, and optimize formats for each use case.",
+            "scope": "Quality Assurance",
+            "source_file": "C:\\Users\\user1\\OneDrive\\Dokumenty\\תכנות\\AI\\rag_project\\ai_rag_project\\docs\\windsurf\\storage_strategy.md"
+        }
+    ]
+}
