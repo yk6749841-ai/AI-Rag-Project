@@ -1,11 +1,7 @@
 # 👨‍🍳 עוזר חכם Chef-AI: מערכת Hybrid RAG מתקדמת
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-27272E?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" />
+  🐍 <b>Python</b> &nbsp;&nbsp;•&nbsp;&nbsp; 🦙 <b>LlamaIndex</b> &nbsp;&nbsp;•&nbsp;&nbsp; 🌲 <b>Pinecone</b> &nbsp;&nbsp;•&nbsp;&nbsp; 🤖 <b>Cohere</b> &nbsp;&nbsp;•&nbsp;&nbsp; 🎨 <b>Gradio</b>
 </p>
 
 ## 📌 סקירה כללית
@@ -59,7 +55,7 @@
 ### 1. שכפול הפרויקט (Clone)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yk6749841-ai/AI-Rag-Project.git
 cd ai_rag_project
  ```
 
