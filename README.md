@@ -46,6 +46,8 @@
 4. **`RetrievalEvent`** ➡️ שולף את מודלי ה-Pydantic המובנים או את צמתי הווקטורים מהמסד.
 5. **`StopEvent`** ➡️ מסנתז את התשובה הסופית תוך שימוש בחוקים קפדניים ומחזיר אותה לממשק.
 
+<img width="948" height="752" alt="image" src="https://github.com/user-attachments/assets/c7228875-1bd0-49b0-8de3-075d4571e83f" />
+
 *(תרשים ויזואלי של זרימת המידע מיוצר באופן אוטומטי כקובץ `workflow_design.html` בכל פעם שהמערכת רצה).*
 
 ---
